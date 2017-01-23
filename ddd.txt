@@ -1,3 +1,1 @@
-App监狱端账号 gkzxhn04 gkzxhn05 gkzxhn06 
-后台管理账号 监狱代码：410000 用户名admin6（申请审核账号）auditor.html ；admin7（家属订单账号）application.html ；admin8(监狱信息账号) information.html 123456  test1
-正式服务器后台管理地址：https://www.fushuile.com 
+古古怪怪
